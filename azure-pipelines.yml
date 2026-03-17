@@ -11,6 +11,7 @@ variables:
   repoUrl: 'https://github.com/tccheng05/e08g10t06-odoo17'
   updateScript: '/home/is214/deploy-temp/update_code.sh'
   stagePath: '/home/is214'
+  tempDeploy: '/home/is214/deploy-temp'
 
 stages:
 
